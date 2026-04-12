@@ -9,20 +9,21 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://quant-trader-lite.streamlit.app/)
 
 ---
----
+
 
 ##  Landing Page
 
 <p align="center">
   <img src="dashboard-trade.PNG" width="80%" />
 </p>
+
 ## Dashboard Preview
 
 <p align="center">
   <img src="dashboard-trade1.PNG" width="80%" />
 </p>
 
----
+
 
 ##  Feature Highlights
 
@@ -41,7 +42,7 @@ Live Price  →  Gemini AI  →  Signal + Reason  →  Kraken CLI (sandbox)  →
 
 **🔗 Try it live:** [https://quant-trader-lite.streamlit.app/](https://quant-trader-lite.streamlit.app/)
 
----
+
 
 ## 🏗️ Architecture
 
