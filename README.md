@@ -9,7 +9,28 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://quant-trader-lite.streamlit.app/)
 
 ---
+---
 
+##  Landing Page
+
+<p align="center">
+  <img src="dashboard-trade.PNG" width="80%" />
+</p>
+## Dashboard Preview
+
+<p align="center">
+  <img src="dashboard-trade1.PNG" width="80%" />
+</p>
+
+---
+
+##  Feature Highlights
+
+<p align="center">
+  <img src="features.PNG" width="85%" />
+</p>
+
+---
 ## 🧠 What is QuantTrader Lite?
 
 QuantTrader Lite is a fully working, end-to-end AI crypto trading signal agent. It fetches live prices from multiple sources, asks **Gemini 2.0 Flash** for a **BUY / SELL / HOLD** signal with a reason, and executes paper trades via **Kraken CLI** — all visible live on a clean Streamlit dashboard.
